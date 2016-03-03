@@ -1,0 +1,32 @@
+Hidden DIM = 20
+Reading fasta file...
+Read 4419 sentences 
+shuffled sentences
+building model ...
+model built
+Begin training ...
+Initial training set error: 0.458630
+Loss after 1 epochs is 0.3428
+Testing set loss after 1 epochs is 0.3277
+Loss after 2 epochs is 0.3257
+Testing set loss after 2 epochs is 0.3245
+Loss after 3 epochs is 0.3237
+Testing set loss after 3 epochs is 0.3232
+Loss after 4 epochs is 0.3228
+Testing set loss after 4 epochs is 0.3225
+Loss after 5 epochs is 0.3222
+Testing set loss after 5 epochs is 0.3220
+Loss after 6 epochs is 0.3217
+Testing set loss after 6 epochs is 0.3216
+Loss after 7 epochs is 0.3214
+Testing set loss after 7 epochs is 0.3213
+Loss after 8 epochs is 0.3211
+Testing set loss after 8 epochs is 0.3211
+Loss after 9 epochs is 0.3209
+Testing set loss after 9 epochs is 0.3208
+Loss after 10 epochs is 0.3207
+Testing set loss after 10 epochs is 0.3207
+Loss after 11 epochs is 0.3205
+Testing set loss after 11 epochs is 0.3205
+Loss after 12 epochs is 0.3203
+Testing set loss after 12 epochs is 0.3203
